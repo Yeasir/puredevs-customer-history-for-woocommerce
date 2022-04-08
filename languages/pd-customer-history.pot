@@ -1,0 +1,790 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Customer History by PureDevs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-30 10:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.6"
+
+#: admin/partials/templates/customer-details.php:35
+msgid " Orders"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:169
+#: admin/class-pd-customer-history-admin.php:170
+#: admin/partials/templates/stats-tax-view__premium_only.php:18
+#: admin/partials/templates/top-sub-nav-stats__premium_only.php:29
+msgid " View"
+msgstr ""
+
+#: admin/partials/templates/live-searches__premium_only.php:37
+#: admin/partials/templates/live-sessions__premium_only.php:38
+#: admin/partials/templates/trash__premium_only.php:37
+msgid ")"
+msgstr ""
+
+#: admin/partials/templates/customers.php:98
+#: admin/partials/templates/live-searches__premium_only.php:74
+#: admin/partials/templates/live-sessions__premium_only.php:75
+#: admin/partials/templates/order-history.php:109
+#: admin/partials/templates/stats-pages__premium_only.php:31
+#: admin/partials/templates/stats-spent__premium_only.php:21
+msgid "10"
+msgstr ""
+
+#: admin/partials/templates/customers.php:101
+#: admin/partials/templates/live-searches__premium_only.php:77
+#: admin/partials/templates/live-sessions__premium_only.php:78
+#: admin/partials/templates/order-history.php:112
+#: admin/partials/templates/stats-pages__premium_only.php:34
+#: admin/partials/templates/stats-spent__premium_only.php:24
+msgid "100"
+msgstr ""
+
+#: admin/partials/templates/customers.php:99
+#: admin/partials/templates/live-searches__premium_only.php:75
+#: admin/partials/templates/live-sessions__premium_only.php:76
+#: admin/partials/templates/order-history.php:110
+#: admin/partials/templates/stats-pages__premium_only.php:32
+#: admin/partials/templates/stats-spent__premium_only.php:22
+msgid "20"
+msgstr ""
+
+#: admin/partials/templates/customers.php:100
+#: admin/partials/templates/live-searches__premium_only.php:76
+#: admin/partials/templates/live-sessions__premium_only.php:77
+#: admin/partials/templates/order-history.php:111
+#: admin/partials/templates/stats-pages__premium_only.php:33
+#: admin/partials/templates/stats-spent__premium_only.php:23
+msgid "50"
+msgstr ""
+
+#: admin/partials/templates/live-searches__premium_only.php:21
+#: admin/partials/templates/live-sessions__premium_only.php:21
+#: admin/partials/templates/trash__premium_only.php:21
+msgid "</a>"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:129
+msgid "<span id=\"pd-customers-menu\">Customers & Users</span>"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:124
+msgid "<span id=\"pd-dashboard-menu\">Dashboard</span>"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:156
+msgid "<span id=\"pd-keyword-stats-menu\">Statistics</span>"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:137
+msgid "<span id=\"pd-order-history-menu\">Order History</span>"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:144
+msgid "<span id=\"pd-sessions-menu\">Sessions</span>"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:47
+#: includes/class-pd-customer-history-sessions__premium_only.php:48
+#: admin/partials/templates/customer-details.php:44
+msgid "Actions"
+msgstr ""
+
+#: includes/helper/class-pd-customer-history-helper__premium_only.php:299
+#: admin/partials/templates/customer-details.php:136
+msgid "Add to cart"
+msgstr ""
+
+#: admin/partials/templates/customers.php:26
+msgid "Admin"
+msgstr ""
+
+#: admin/partials/templates/order-history.php:31
+msgid "Advance Search:"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:110
+msgid "All Sessions History"
+msgstr ""
+
+#: admin/partials/templates/dashboard/last-orders.php:24
+msgid "Amount"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:363
+msgid "Back"
+msgstr ""
+
+#: admin/partials/templates/dashboard/top-customers.php:12
+#: admin/partials/templates/dashboard/top-searches__premium_only.php:12
+#: admin/partials/templates/dashboard/top-taxonomy__premium_only.php:18
+msgid "Chart View"
+msgstr ""
+
+#: admin/partials/templates/live-searches__premium_only.php:45
+#: admin/partials/templates/live-sessions__premium_only.php:46
+msgid "Check for new Sessions"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:36
+#: admin/partials/templates/customer-details.php:82
+#: admin/partials/templates/customer-details.php:111
+#: admin/partials/templates/dashboard/last-orders.php:14
+#: admin/partials/templates/dashboard/last-searches__premium_only.php:13
+#: admin/partials/templates/dashboard/top-customers.php:20
+#: admin/partials/templates/dashboard/top-searches__premium_only.php:20
+#: admin/partials/templates/dashboard/top-taxonomy__premium_only.php:26
+msgid "Click to Expend"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:81
+msgid "Complete History"
+msgstr ""
+
+#: includes/class-pd-customer-history-product-taxonomy-stats__premium_only.php:54
+#: admin/partials/templates/dashboard/top-searches__premium_only.php:30
+#: admin/partials/templates/dashboard/top-taxonomy__premium_only.php:34
+msgid "Count"
+msgstr ""
+
+#: admin/partials/templates/customers.php:70
+msgid "Country :"
+msgstr ""
+
+#: includes/class-pd-customer-history.php:418
+msgid "CSV File Error!"
+msgstr ""
+
+#: includes/class-pd-customer-history.php:413
+msgid "CSV file imported successfully."
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:152
+msgid "Custom Delete"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:133
+#: admin/partials/templates/customers.php:28
+#: admin/partials/templates/dashboard/top-customers.php:27
+msgid "Customer"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:18
+msgid "Customer Details"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:116
+msgid "Customer History"
+msgstr ""
+
+#: admin/partials/templates/customers.php:14
+msgid "Customer List"
+msgstr ""
+
+#: includes/class-pd-customer-order-history.php:42
+#: admin/partials/templates/dashboard/last-orders.php:23
+msgid "Customer Name"
+msgstr ""
+
+#: includes/class-pd-customer-history.php:516
+msgid "Customer support"
+msgstr ""
+
+#: admin/partials/templates/top-nav.php:11
+msgid "Customers & Users"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:124
+#: admin/partials/templates/dashboard.php:13
+#: admin/partials/templates/top-nav.php:10
+msgid "Dashboard"
+msgstr ""
+
+#: includes/class-pd-customer-history-sessions__premium_only.php:47
+#: includes/class-pd-customer-order-history.php:40
+#: admin/partials/templates/customer-details.php:41
+#: admin/partials/templates/customer-details.php:86
+#: admin/partials/templates/customer-details.php:115
+#: admin/partials/templates/dashboard/last-orders.php:21
+#: admin/partials/templates/dashboard/last-searches__premium_only.php:20
+msgid "Date"
+msgstr ""
+
+#: admin/partials/templates/order-history.php:35
+msgid "Date :"
+msgstr ""
+
+#: includes/class-pd-customer-history-sessions__premium_only.php:81
+#: admin/partials/templates/plugin-settings.php:153
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:164
+msgid "Delete All"
+msgstr ""
+
+#: includes/class-pd-customer-history.php:515
+msgid "Docs"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:116
+msgid ""
+"Download a file containing all the information about your customers "
+"activities."
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:343
+msgid "Edit this user"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:322
+msgid "Email"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:133
+msgid "Empty Tables"
+msgstr ""
+
+#: admin/partials/templates/search-keywords-page__premium_only.php:36
+#: admin/partials/templates/stats-pages__premium_only.php:36
+#: admin/partials/templates/stats-tax-view__premium_only.php:36
+msgid "entries"
+msgstr ""
+
+#: admin/partials/templates/customers.php:40
+#: admin/partials/templates/customers.php:55
+#: admin/partials/templates/order-history.php:48
+msgid "Equal"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:362
+msgid "Error"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:111
+#: admin/partials/templates/plugin-settings.php:117
+msgid "Export"
+msgstr ""
+
+#: includes/class-pd-customer-history.php:451
+#: includes/class-pd-customer-history.php:491
+msgid "Failed to delete sessions!"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:179
+msgid "Financial Summary"
+msgstr ""
+
+#: admin/partials/templates/customers.php:41
+#: admin/partials/templates/customers.php:56
+#: admin/partials/templates/order-history.php:49
+msgid "Greater then"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:92
+msgid "Hide users with no orders :"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://puredevs.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/puredevs-customer-history-for-woocommerce"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:363
+msgid "I'm sorry, you are not allowed to see this page!"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:122
+#: admin/partials/templates/plugin-settings.php:128
+msgid "Import"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:126
+msgid "Imported data will be added to your database."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"It helps you understand how your customers behave on site. It allows you to "
+"see how many pagesthey have visited, the orders they have completed, the "
+"search term they have used, and many more."
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:42
+msgid "Items"
+msgstr ""
+
+#: includes/class-pd-customer-order-history.php:43
+msgid "Items & Qty"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:87
+msgid "Key"
+msgstr ""
+
+#: admin/partials/templates/dashboard/last-searches__premium_only.php:19
+#: admin/partials/templates/dashboard/top-searches__premium_only.php:29
+msgid "Keyword"
+msgstr ""
+
+#: admin/partials/templates/live-searches__premium_only.php:65
+#: admin/partials/templates/live-sessions__premium_only.php:66
+#: admin/partials/templates/search-keywords-page__premium_only.php:22
+#: admin/partials/templates/stats-pages__premium_only.php:22
+#: admin/partials/templates/stats-tax-view__premium_only.php:23
+#: admin/partials/templates/trash__premium_only.php:62
+msgid "Keyword Search"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:160
+msgid "Keyword Searches"
+msgstr ""
+
+#: includes/class-pd-customer-history-stats__premium_only.php:53
+#: admin/partials/templates/search-keywords-page__premium_only.php:17
+#: admin/partials/templates/top-sub-nav-stats__premium_only.php:18
+msgid "Keywords"
+msgstr ""
+
+#: admin/partials/templates/dashboard/last-orders.php:5
+msgid "Latest Orders"
+msgstr ""
+
+#: admin/partials/templates/dashboard/last-searches__premium_only.php:5
+msgid "Latest Searches"
+msgstr ""
+
+#: admin/partials/templates/customers.php:42
+#: admin/partials/templates/customers.php:57
+#: admin/partials/templates/order-history.php:50
+msgid "Less then"
+msgstr ""
+
+#: admin/partials/templates/live-searches__premium_only.php:36
+#: admin/partials/templates/live-searches__premium_only.php:43
+#: admin/partials/templates/live-sessions__premium_only.php:37
+#: admin/partials/templates/trash__premium_only.php:36
+msgid "Live Searches"
+msgstr ""
+
+#: admin/partials/templates/live-searches__premium_only.php:35
+#: admin/partials/templates/live-sessions__premium_only.php:36
+#: admin/partials/templates/live-sessions__premium_only.php:44
+#: admin/partials/templates/trash__premium_only.php:35
+msgid "Live Sessions"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:306
+msgid "Name"
+msgstr ""
+
+#: includes/helper/class-pd-customer-history-helper__premium_only.php:304
+#: admin/partials/templates/customer-details.php:140
+msgid "New order"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:71
+#: admin/partials/templates/plugin-settings.php:82
+#: admin/partials/templates/plugin-settings.php:95
+msgid "No"
+msgstr ""
+
+#: admin/partials/templates/customers.php:37
+msgid "No. of orders :"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:40
+msgid "Order"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:137
+#: admin/partials/templates/order-history.php:15
+#: admin/partials/templates/top-nav.php:12
+msgid "Order History"
+msgstr ""
+
+#: includes/class-pd-customer-order-history.php:41
+#: admin/partials/templates/dashboard/last-orders.php:22
+msgid "Order ID"
+msgstr ""
+
+#: admin/partials/templates/order-history.php:81
+msgid "Order Status :"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:42
+msgid "Orders"
+msgstr ""
+
+#: includes/class-pd-customer-history-stats__premium_only.php:61
+msgid "Orders Average"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:45
+#: admin/partials/templates/customer-details.php:262
+msgid "Orders average"
+msgstr ""
+
+#: includes/class-pd-customer-order-history.php:45
+msgid "Payment Method"
+msgstr ""
+
+#: admin/partials/templates/order-history.php:62
+msgid "Payment Method :"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:133
+msgid "PD Customer"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:115
+msgid "PD Customer History"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:129
+msgid "PD Customers"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:160
+msgid "PD Keyword Searches"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:148
+msgid "PD Searches"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:144
+msgid "PD Sessions"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:156
+msgid "PD Statistics"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:176
+msgid "PD Total Spent"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:152
+msgid "PD Trash"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:43
+#: admin/partials/templates/customer-details.php:202
+msgid "Pending Orders"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:221
+msgid "Pending Orders Amount"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:292
+msgid "Personal Information"
+msgstr ""
+
+#. Author of the plugin
+msgid "PureDevs"
+msgstr ""
+
+#. Name of the plugin
+msgid "PureDevs Customer History for WooCommerce"
+msgstr ""
+
+#: includes/class-pd-customer-history.php:515
+msgid "PureDevs Customer History for WooCommerce Documentation"
+msgstr ""
+
+#: puredevs-customer-history-for-woocommerce.php:86
+msgid ""
+"PureDevs Customer History for WooCommerce is enabled but not effective. In "
+"order to work it requires WooCommerce."
+msgstr ""
+
+#: includes/class-pd-customer-history-sessions__premium_only.php:46
+msgid "Referer"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:44
+#: admin/partials/templates/customer-details.php:232
+msgid "Refunded Orders"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:250
+msgid "Refunded Orders Amount"
+msgstr ""
+
+#: includes/class-pd-customer-history-sessions__premium_only.php:78
+msgid "Restore"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:58
+msgid "Results per page :"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:41
+msgid "Role"
+msgstr ""
+
+#: admin/partials/templates/customers.php:23
+msgid "Role :"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:101
+msgid "Save"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:78
+msgid "Save \"admin\" sessions :"
+msgstr ""
+
+#: includes/helper/class-pd-customer-history-helper__premium_only.php:294
+#: admin/partials/templates/customer-details.php:132
+#: admin/partials/templates/customers.php:83
+#: admin/partials/templates/order-history.php:94
+msgid "Search"
+msgstr ""
+
+#: admin/partials/templates/customers.php:88
+#: admin/partials/templates/customers.php:91
+msgid "Search Customer"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:81
+msgid "Search History"
+msgstr ""
+
+#: admin/partials/templates/trash__premium_only.php:60
+#: admin/partials/templates/trash__premium_only.php:63
+msgid "Search in Trash"
+msgstr ""
+
+#: admin/partials/templates/order-history.php:99
+#: admin/partials/templates/order-history.php:102
+msgid "Search Order"
+msgstr ""
+
+#: admin/partials/templates/live-searches__premium_only.php:63
+#: admin/partials/templates/live-searches__premium_only.php:66
+#: admin/partials/templates/live-sessions__premium_only.php:64
+#: admin/partials/templates/live-sessions__premium_only.php:67
+#: admin/partials/templates/search-keywords-page__premium_only.php:23
+#: admin/partials/templates/stats-pages__premium_only.php:23
+#: admin/partials/templates/stats-tax-view__premium_only.php:24
+msgid "Search Sessions"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:148
+#: includes/class-pd-customer-history-stats__premium_only.php:52
+msgid "Searches"
+msgstr ""
+
+#: includes/class-pd-customer-history.php:324
+#: includes/class-pd-customer-history.php:376
+#: includes/class-pd-customer-history.php:439
+#: includes/class-pd-customer-history.php:477
+#: admin/partials/templates/live-searches__premium_only.php:12
+#: admin/partials/templates/live-sessions__premium_only.php:13
+#: admin/partials/templates/plugin-settings.php:23
+#: admin/partials/templates/trash__premium_only.php:12
+msgid "Security check failed!"
+msgstr ""
+
+#: admin/partials/templates/live-searches__premium_only.php:60
+#: admin/partials/templates/live-sessions__premium_only.php:61
+#: admin/partials/templates/order-history.php:36
+#: admin/partials/templates/plugin-settings.php:154
+#: admin/partials/templates/trash__premium_only.php:57
+msgid "Select Date Range"
+msgstr ""
+
+#: includes/class-pd-customer-history-stats__premium_only.php:46
+#: admin/partials/templates/top-nav.php:14
+msgid "Sessions"
+msgstr ""
+
+#: includes/class-pd-customer-history.php:447
+#: includes/class-pd-customer-history.php:487
+msgid "Sessions deleted successfully."
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:110
+msgid "Sessions History"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:183
+#: admin/partials/templates/plugin-settings.php:13
+#: admin/partials/templates/top-nav.php:17
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:45
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/partials/templates/customers.php:95
+#: admin/partials/templates/live-searches__premium_only.php:71
+#: admin/partials/templates/live-sessions__premium_only.php:72
+#: admin/partials/templates/order-history.php:106
+#: admin/partials/templates/search-keywords-page__premium_only.php:28
+#: admin/partials/templates/stats-pages__premium_only.php:28
+#: admin/partials/templates/stats-spent__premium_only.php:18
+#: admin/partials/templates/stats-tax-view__premium_only.php:28
+msgid "Show"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:67
+msgid "Show BOT sessions :"
+msgstr ""
+
+#: admin/partials/templates/search-keywords-page__premium_only.php:20
+#: admin/partials/templates/stats-pages__premium_only.php:17
+#: admin/partials/templates/stats-pages__premium_only.php:20
+#: admin/partials/templates/top-sub-nav-stats__premium_only.php:13
+msgid "Site Pages"
+msgstr ""
+
+#: includes/class-pd-customer-history.php:456
+#: includes/class-pd-customer-history.php:496
+msgid "Sorry, you don't have permission to access this page."
+msgstr ""
+
+#: admin/partials/templates/top-nav.php:15
+msgid "Statistics"
+msgstr ""
+
+#: includes/class-pd-customer-order-history.php:46
+#: admin/partials/templates/dashboard/last-orders.php:25
+msgid "Status"
+msgstr ""
+
+#: admin/partials/templates/customers.php:27
+msgid "Subscriber"
+msgstr ""
+
+#: admin/partials/templates/dashboard/top-customers.php:9
+#: admin/partials/templates/dashboard/top-searches__premium_only.php:9
+#: admin/partials/templates/dashboard/top-taxonomy__premium_only.php:15
+msgid "Table View"
+msgstr ""
+
+#: admin/partials/templates/dashboard/top-customers.php:5
+msgid "Top Customers"
+msgstr ""
+
+#: admin/partials/templates/dashboard/top-searches__premium_only.php:5
+msgid "Top Searches"
+msgstr ""
+
+#: includes/class-pd-customer-order-history.php:44
+#: admin/partials/templates/customer-details.php:43
+msgid "Total"
+msgstr ""
+
+#: admin/partials/templates/dashboard/top-customers.php:28
+msgid "Total Amount"
+msgstr ""
+
+#: admin/partials/templates/order-history.php:45
+msgid "Total Amount :"
+msgstr ""
+
+#: includes/class-pd-customer-history-stats__premium_only.php:60
+#: admin/partials/templates/customer-details.php:184
+#: admin/partials/templates/dashboard/top-customers.php:29
+msgid "Total Orders"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:46
+msgid "Total Spending"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:176
+#: admin/partials/templates/customer-details.php:281
+#: admin/partials/templates/stats-spent__premium_only.php:15
+#: admin/partials/templates/top-sub-nav-stats__premium_only.php:38
+msgid "Total Spent"
+msgstr ""
+
+#: includes/class-pd-customer-history-stats__premium_only.php:58
+msgid "Total spent"
+msgstr ""
+
+#: admin/partials/templates/customers.php:52
+msgid "Total Spent :"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:152
+#: admin/partials/templates/trash__premium_only.php:43
+msgid "Trash"
+msgstr ""
+
+#: includes/class-pd-customer-history-sessions__premium_only.php:45
+#: includes/class-pd-customer-history-stats__premium_only.php:47
+#: admin/partials/templates/customer-details.php:116
+msgid "URL"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:40
+#: includes/class-pd-customer-history-sessions__premium_only.php:44
+msgid "User"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:298
+msgid "User ID"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:314
+msgid "Username"
+msgstr ""
+
+#: includes/class-pd-customer-history-stats__premium_only.php:59
+msgid "Users"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:189
+#: admin/partials/templates/customer-details.php:67
+msgid "View"
+msgstr ""
+
+#: admin/partials/templates/dashboard/last-orders.php:10
+#: admin/partials/templates/dashboard/last-searches__premium_only.php:10
+#: admin/partials/templates/dashboard/top-customers.php:16
+#: admin/partials/templates/dashboard/top-searches__premium_only.php:16
+#: admin/partials/templates/dashboard/top-taxonomy__premium_only.php:22
+msgid "View All"
+msgstr ""
+
+#: includes/class-pd-customer-history.php:516
+msgid "Visit customer support"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:330
+msgid "Website"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:72
+#: admin/partials/templates/plugin-settings.php:83
+#: admin/partials/templates/plugin-settings.php:96
+msgid "Yes"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:115
+msgid "You will download a file with \"Sessions\", \"Searches\" and \"Stats\"."
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:134
+msgid "You will lose saved Sessions & Searches!"
+msgstr ""

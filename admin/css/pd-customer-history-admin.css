@@ -1,0 +1,570 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+/* === Common Styles === */
+
+.pd-wcch-inline-block{
+    display: inline-block
+}
+.pd-wcch-mr-30{
+    margin-right: 30px;
+}
+.pd-wcch-form-control{
+    width: 30%;
+    vertical-align: middle !important;
+}
+.pd-wcch-btn{
+    color: #000;
+    padding: 5px 30px;
+    line-height: 1;
+    border: 0;
+    box-shadow: none;
+    outline: none;
+    border-radius: 0;
+    color: #000000;
+    vertical-align: middle !important;
+}
+.pd-wcch-btn:hover{
+    color: #fff;
+    color: #3f3f3f;
+}
+
+.pd-wcch-green-btn{
+    color: #fff;
+    color: #2fa10d;
+}
+.pd-wcch-green-btn:hover{
+    color: #3ed111;
+}
+.pd-wcch-red-btn{
+    color: #fff;
+    color: #d31969;
+}
+.pd-wcch-red-btn:hover{
+
+    color: #ff0672;
+}
+.pd-wcch-title {
+    font-weight: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    vertical-align: middle !important;
+}
+.pd-wcch-btn:hover{
+    color: rgb(78, 78, 78);
+
+}
+
+.pd-wcch-title span {
+    font-size: 13px;
+    display: block;
+    padding-left: 4px;
+}
+
+.pd-wcch-select {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    font-size: 16px;
+    color: #000;
+    width: 220px;
+}
+.pd-wcch-form-group{
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+.pd-wcch-title{
+    min-width: 130px;
+}
+
+#customers form fieldset legend,
+#orders  form fieldset legend {
+    font-weight: bold;
+    font-size: 17px;
+    margin: 20px 0;
+}
+
+.pd-ch-toggle-btn{
+    float: right;
+    position: absolute;
+    right: 20px;
+    top: 15px;
+}
+
+.pd-ch-dashboard{
+    position: relative;
+    overflow: hidden;
+}
+.pd-ch-main-container {
+    width: 68%;
+    min-width: 463px;
+    float: left;
+
+}
+.pd-ch-side-container {
+    float: right;
+    width: 30%;
+}
+.pd-ch-panel{
+    background-color: white;
+    color: darkslategray;
+    -webkit-border-radius: .3rem;
+    -moz-border-radius: .3rem;
+    -ms-border-radius: .3rem;
+    border-radius: .3rem;
+    margin: 30px auto;
+    padding: 15px;
+}
+.pd-ch-clearfix{
+    clear: both
+}
+
+.pd-ch-panel > h2, .pd-ch-panel > ul {
+    margin: 0 1rem 1.5rem 0;
+}
+.pd-ch-panel h2{
+    font-weight: bold
+}
+.pd-ch-panel{
+    position: relative
+}
+
+/* === Live Session styles === */
+
+#pd-customer-history #live-sessions table tr td {
+    /*white-space: nowrap;*/
+}
+
+#pd-customer-history #live-sessions table tr #date,
+#pd-customer-history #live-sessions table tr #user {
+    width: 15%;
+}
+
+#pd-customer-history #live-sessions table tr #actions {
+    width: 100px;
+}
+
+#pd-customer-history #live-sessions table tr .action-search {
+    color: #2196f3;
+}
+
+#pd-customer-history #live-sessions table tr .action-add_to_cart {
+    color: #4CAF50;
+}
+
+#pd-customer-history #live-sessions table tr .action-new_order {
+    color: #e91ebb;
+}
+
+#pd-customer-history #live-sessions table tr .bot {
+    color: #e91e63;
+}
+
+#pd-customer-history #live-sessions table tr:hover {
+    color: #eee;
+}
+
+#pd-customer-history #live-sessions table tr td {
+    overflow: hidden;
+}
+
+.section-sessions h2 a, .section-searches h2 a{
+    font-size: 14px;
+}
+
+#live-sessions .search-box{
+    float: right;
+}
+
+/* === All Setting style === */
+
+#pd-customer-history #settings .settings-form {
+    width: 67%;
+    float: left;
+    display: inline-block;
+    background: #fff;
+    padding: 20px 40px;
+    margin-right: 1%;
+}
+
+#pd-customer-history #settings .pd-settings-block {
+    width: 22%;
+    background: #fff;
+    display: inline-block;
+    padding: 20px;
+}
+
+#pd-customer-history #settings .settings-box {
+    max-width: 100%;
+    border: 1px solid #ccc;
+    padding: 30px 20px;
+    margin-bottom: 20px;
+}
+
+
+#pd-customer-history #settings .settings-box h2 {
+    margin-top: 0px;
+}
+
+#pd-customer-history #settings .settings-box .warning {
+    color: #a00;
+}
+
+.d-none{
+    display: none;
+}
+.delete-custom-btn,
+.delete-custom-btn-confirm {
+    background: #0085ba;
+    border-color: #0073aa #006799 #006799;
+    box-shadow: 0 1px 0 #006799;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #006799,1px 0 1px #006799,0 1px 1px #006799,-1px 0 1px #006799;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 0;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
+.delete-custom-btn-confirm{
+    float: right;
+}
+.top-nav .nav-tab span {
+    margin-right: 5px;
+    font-size: 16px;
+    margin-top: 4px;
+}
+.daterangepicker{
+    z-index: 9999;
+}
+
+.view-all-link{
+    text-decoration: none;
+    color: #000;
+}
+
+.chart-table-toggle .pd-toggle-btn.pd-active-btn {
+    background: #000;
+}
+.chart-table-toggle .pd-toggle-btn .dashicons {
+    color: #000;
+}
+.chart-table-toggle .pd-toggle-btn.pd-active-btn .dashicons {
+    color: #fff;
+}
+.pd-woo-header{
+    position: relative;
+}
+
+.pd-woo-float-left {
+    float: left !important;
+}
+
+.pd-woo-float-right {
+    float: right !important;
+}
+.boldText{
+    font-weight: bold;
+}
+
+#top-customers,
+#top-searches,
+.taxonomy-terms{
+    width: 100%;
+    height: 230px;
+}
+
+/* === Table Panel styles === */
+
+.pd-ch-panel table {
+    border-collapse: collapse;
+    width: 100%;
+
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.pd-ch-panel table th {
+    text-align: left;
+    font-weight: 400;
+    font-size: 13px;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.pd-ch-panel table tr:not(:first-child):hover {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.pd-ch-panel table td {
+    line-height: 30px;
+    font-weight: 300;
+    padding: 10px;
+    vertical-align: middle;
+}
+.customer-avatar{
+    text-align: center;
+}
+.customer-avatar img{
+    border-radius: 50%;
+}
+.pd-ch-clearfix a.button{
+    vertical-align: middle;
+}
+.pd-ch-side-container-sidebar .pd-ch-panel h2{
+    text-align: center;
+}
+.pd-ch-side-container-sidebar .customer-info td{
+    padding: 0;
+}
+
+.customer-history_page_pd-woo-stats thead tr th:first-child,
+.customer-history_page_pd-woo-search-stats thead tr th:first-child {
+    width: 100px;
+}
+.customer-history_page_pd-woo-stats-spent thead tr th:first-child {
+    width: 150px;
+}
+
+.admin_page_pd-woo-stats thead tr th:first-child,
+.admin_page_pd-woo-search-stats thead tr th:first-child {
+    width: 100px;
+}
+
+.pd-woo-toggle-btn{
+    height: 25px;
+    width: 25px;
+    cursor: pointer;
+}
+
+.pd-woo-toggle-btn .dashicons{
+    color: #000000;
+}
+
+.pd-woo-dashboard{
+    position: relative;
+    overflow: hidden;
+}
+.pd-woo-main-container {
+    width: 48%;
+    min-width: 430px;
+    float: left;
+    margin-right: 1%;
+
+}
+
+.pd-woo-panel{
+    background-color: white;
+    color: darkslategray;
+    -webkit-border-radius: .3rem;
+    -moz-border-radius: .3rem;
+    -ms-border-radius: .3rem;
+    border-radius: .3rem;
+    margin: 10px auto;
+    padding: 15px;
+    min-height: 63px;
+}
+
+.pd-woo-clearfix{
+    clear: both;
+}
+
+.pd-woo-panel > h2, .pd-woo-panel > ul {
+    margin: 0 1rem 1.5rem 0;
+}
+.pd-woo-panel h2{
+    font-weight: bold;
+}
+.pd-woo-panel{
+    position: relative;
+}
+
+/* === Pd Woo Panel Table style === */
+
+.pd-woo-panel table {
+    border-collapse: collapse;
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.pd-woo-panel table th {
+    text-align: left;
+    font-weight: 400;
+    font-size: 13px;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.pd-woo-panel table tr:not(:first-child):hover {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.pd-woo-panel table td {
+    line-height: 19px;
+    font-weight: 300;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+.pd-woo-clearfix a.button{
+    vertical-align: middle;
+}
+.pd-woo-side-container-sidebar .pd-woo-panel h2{
+    text-align: center;
+}
+.pd-woo-side-container-sidebar .customer-info td{
+    padding: 0;
+}
+.section-sessions h2 a, .section-searches h2 a{
+    font-size: 14px;
+}
+.pd-chart-content {
+    display: none;
+}
+.chart-table-toggle {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.chart-table-toggle .pd-toggle-btn {
+    margin-right: 5px;
+    height: 20px;
+    width: 20px;
+    background: #fff;
+    padding: 3px 2px 6px 5px;
+    cursor: pointer;
+}
+
+/* === Customer status Styles === */
+
+.status-wc-completed {
+    color: #00A208;
+}
+
+.status-wc-pending {
+    color: #e2e11c;
+}
+
+.status-wc-cancelled {
+    color: #eca505;
+}
+
+.status-wc-refunded {
+    color: #dd0700;
+}
+
+.status-wc-processing {
+    color: #6cd1ff;
+}
+
+.status-wc-on-hold {
+    color: #5b9ca2;
+}
+
+/* === Order status Styles === */
+
+.pd-woo-order-status {
+    display: inline-block;
+    padding: 3px 5px;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 11px;
+}
+
+.pd-woo-order-status.completed {
+    background-color: #00A208;
+}
+
+.pd-woo-order-status.pending {
+    background-color: #e2e11c;
+}
+
+.pd-woo-order-status.cancelled {
+    background-color: #eca505;
+}
+
+.pd-woo-order-status.refunded {
+    background-color: #dd0700;
+}
+
+.pd-woo-order-status.processing {
+    background-color: #6cd1ff;
+}
+.pd-woo-order-status.on-hold {
+    background-color: #5b9ca2;
+}
+.show-results{
+    margin-top: 20px;
+}
+.vertical-align-middle{
+    vertical-align: middle !important;
+}
+
+#orders form #daterange{
+    min-width: 220px;
+}
+.customer-history_page_pd-woo-order-history span.dashicons-admin-users,
+.customer-history_page_pd-woo-order-history span.dashicons-businessman{
+    margin-right: 5px;
+}
+.section-searches table tr th:first-child, .section-sessions table tr th:first-child{
+    width: 15%;
+}
+.section-searches table tr th:last-child, .section-sessions table tr th:last-child{
+    width: 85%;
+}
+
+.mr-5{
+    margin-right: 5px;
+}
+.cdfild{
+    min-width: 170px;
+}
+#customers .search-box, #orders .search-box{
+    float: right;
+}
+@media screen and (max-width: 1024px) {
+    .left-section {
+        width: 72%;
+    }
+
+    .pd-woo-main-container {
+        min-width: 394px;
+    }
+
+    #customers .actions .button {
+        padding: 0 2px;
+    }
+
+    #pd-customer-history #settings .settings-form {
+        width: 62%;
+    }
+
+}
+@media screen and (max-width: 768px) {
+    .pd-woo-main-container {
+        width: 100%;
+    }
+    .pd-woo-panel table td{
+        display: table-cell !important;
+    }
+}
